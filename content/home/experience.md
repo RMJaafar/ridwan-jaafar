@@ -22,15 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student Volunteer
-    company: Rimba
-    company_url: 'https://rimba.ngo/'
-    company_logo: 
-    location: Malaysia
-    date_start: ''
-    date_end: ''
-    description: Compiled bird checklist data for Kampung Basong; Synthesized State Park policy documents & Assistance in Project Pteropus field expedition
-  - title: Student Intern
+    - title: Student Intern
     company: Nigerian Montane Forest Project
     company_url: 'https://www.canterbury.ac.nz/afromontane/'
     company_logo: 
@@ -42,6 +34,14 @@ experience:
         * Data collection and management
         * Use of equipments/tools for ecology research 
         * Managing social media operations including setting-up Twitter account (@Ngel_Nyaki)gaining over 700 followers
+    - title: Student Volunteer
+    company: Rimba
+    company_url: 'https://rimba.ngo/'
+    company_logo: 
+    location: Malaysia
+    date_start: ''
+    date_end: ''
+    description: Compiled bird checklist data for Kampung Basong; Synthesized State Park policy documents & Assistance in Project Pteropus field expedition
 
 design:
   columns: '2'
