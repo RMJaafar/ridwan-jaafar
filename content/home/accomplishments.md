@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-active: false
+
 # This file represents a page section.
 headless: true
 
@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Key highlights'
 subtitle:
 
 # Date format
@@ -26,14 +26,6 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: ""
-  description: ""
-  organization: AuthorAid INASP
-  organization_url: https://www.authoraid.info/en/
-  title: 'Certificate of Achievement in Scientific Writing and Research Communication'
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: ""
   description: "Attended second semester courses as part of my Tropimundo mobility"
   organization: Institute of Oceanography and Environment, University Malaysia Terengganu (UMT)
   organization_url: https://inos.umt.edu.my/
@@ -42,10 +34,42 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: ""
-  description: "Attended second semester courses as part of my Tropimundo mobility programme"
+  description: "Attended third semester courses as part of my Tropimundo mobility programme"
   organization: Univeristy of Florence, Italy
   organization_url: 
   title: 'Specialization semester'
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: Nigerian Montane Forest Project
+  organization_url: https://www.canterbury.ac.nz/afromontane/
+  title: 'Outstanding Research Contributions Award'
+  url: "https://www.canterbury.ac.nz/media/documents/science-research/afromontane/UC_NMFP-Annual-Report-2017_web.pdf"
+- certificate_url: 
+  date_end: ""
+  date_start: ""
+  description: "Completed a month long course covering current concepts and techniques in ecology, conservation biology, experimental design and sampling methods."
+  organization: Tropical Biology Association (TBA)
+  organization_url: http://www.tropical-biology.org/
+  title: 'Field course in tropical ecology and conservation, VanThuyne Ridge Research Center, Botswana'
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: ""
+  description: "Participated in a 4-weeks highly competitive field ornithology training at Yankari Game Reserve"
+  organization: A. P. Leventis Ornithological Research Institute (APLORI)
+  organization_url: https://aplori.org/
+  title: 'Introductory Ornithology Field Course, Yankari Game Reserve, Nigeria'
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: ""
+  description: ""
+  organization: AuthorAid INASP
+  organization_url: https://www.authoraid.info/en/
+  title: 'Certificate of Achievement in Scientific Writing and Research Communication'
   url: ""
 
 design:
