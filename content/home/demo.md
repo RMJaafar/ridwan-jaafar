@@ -12,9 +12,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Ridwan Jaafar
+title: 
 subtitle:
 
 ---
 
-Hi, welcome to my webpage!
+Hi, welcome to my webpage (under contruction...). I hope to share exciting contents with you soon
