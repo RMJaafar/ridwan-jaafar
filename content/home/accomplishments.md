@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: ""
+  date_end: "06 2020"
   date_start: ""
   description: "Attended second semester courses as part of my Tropimundo mobility"
   organization: University Malaysia Terengganu (UMT)
@@ -33,14 +33,14 @@ item:
   url: https://tropimundo.eu/
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "02 2021"
   description: "Attended third semester courses as part of my Tropimundo mobility programme"
   organization: Univeristy of Florence, Italy
   organization_url: 
   title: 'Specialization semester'
   url: ""
 - certificate_url: 
-  date_end: ""
+  date_end: "03 2018"
   date_start: ""
   description: ""
   organization: Nigerian Montane Forest Project
@@ -48,19 +48,17 @@ item:
   title: 'Outstanding Research Contributions Award'
   url: 
 - certificate_url: 
-  date_end: ""
-  date_start: ""
-  description: |2- 
-           "Completed a month long course areas of tropical ecology 
-            and conservation biology at VanThuyne Ridge Research Center, Botswana"
+  date_end: "07 2019"
+  date_start: "06 2019"
+  description: "Completed a month long course areas of tropical ecology and conservation biology at VanThuyne Ridge Research Center, Botswana"
   organization: Tropical Biology Association (TBA)
   organization_url: http://www.tropical-biology.org/
-  title: 'Field course in tropical ecology and conservation'
+  title: 'Field course in tropical ecology & conservation'
   url: ""
 - certificate_url: 
-  date_end: ""
-  date_start: ""
-  description: "Participated in a 4-weeks highly competitive field ornithology training in Yankari Game Resererve"
+  date_end: "08 2019"
+  date_start: "07 2019"
+  description: "Participated in a 4-weeks highly competitive field ornithology training Yankari Game Resererve"
   organization: A. P. Leventis Ornithological Research Institute (APLORI)
   organization_url: https://aplori.org/
   title: 'Introductory Ornithology Field Course'
