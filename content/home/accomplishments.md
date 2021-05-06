@@ -46,22 +46,24 @@ item:
   organization: Nigerian Montane Forest Project
   organization_url: https://www.canterbury.ac.nz/afromontane/
   title: 'Outstanding Research Contributions Award'
-  url: "https://www.canterbury.ac.nz/media/documents/science-research/afromontane/UC_NMFP-Annual-Report-2017_web.pdf"
+  url: 
 - certificate_url: 
   date_end: ""
   date_start: ""
-  description: "Completed a month long course areas of tropical ecology and conservation biology"
+  description: |2- 
+           "Completed a month long course areas of tropical ecology 
+            and conservation biology at VanThuyne Ridge Research Center, Botswana"
   organization: Tropical Biology Association (TBA)
   organization_url: http://www.tropical-biology.org/
-  title: 'Field course in tropical ecology and conservation, VanThuyne Ridge Research Center, Botswana'
+  title: 'Field course in tropical ecology and conservation'
   url: ""
 - certificate_url: 
   date_end: ""
   date_start: ""
-  description: "Participated in a 4-weeks highly competitive field ornithology training at Yankari Game Reserve"
+  description: "Participated in a 4-weeks highly competitive field ornithology training in Yankari Game Resererve"
   organization: A. P. Leventis Ornithological Research Institute (APLORI)
   organization_url: https://aplori.org/
-  title: 'Introductory Ornithology Field Course, Yankari Game Reserve, Nigeria'
+  title: 'Introductory Ornithology Field Course'
   url: ""
 - certificate_url: 
   date_end: ""
