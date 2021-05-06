@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Key highlights'
+title: 'Key&shy;highlight'
 subtitle:
 
 # Date format
@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: ""
   description: "Attended second semester courses as part of my Tropimundo mobility"
-  organization: Institute of Oceanography and Environment, University Malaysia Terengganu (UMT)
+  organization: University Malaysia Terengganu (UMT)
   organization_url: https://inos.umt.edu.my/
   title: 'Tropical Biodiversity Field School'
   url: https://tropimundo.eu/
@@ -50,7 +50,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: ""
-  description: "Completed a month long course covering current concepts and techniques in ecology, conservation biology, experimental design and sampling methods."
+  description: "Completed a month long course areas of tropical ecology and conservation biology"
   organization: Tropical Biology Association (TBA)
   organization_url: http://www.tropical-biology.org/
   title: 'Field course in tropical ecology and conservation, VanThuyne Ridge Research Center, Botswana'
