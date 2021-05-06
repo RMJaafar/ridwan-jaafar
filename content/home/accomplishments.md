@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-
+active: false
 # This file represents a page section.
 headless: true
 
@@ -29,7 +29,7 @@ item:
   description: ""
   organization: AuthorAid INASP
   organization_url: https://www.authoraid.info/en/
-  title: Certificate of Achievement in Scientific Writing and Research Communication
+  title: 'Certificate of Achievement in Scientific Writing and Research Communication'
   url: ""
 - certificate_url: 
   date_end: ""
