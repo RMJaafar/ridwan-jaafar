@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: "Oct 2017"
+  date_end: ""
   date_start: ""
   description: ""
   organization: AuthorAid INASP
@@ -32,16 +32,16 @@ item:
   title: Certificate of Achievement in Scientific Writing and Research Communication
   url: ""
 - certificate_url: 
-  date_end: "June 2020"
-  date_start: "Feb 2020"
+  date_end: ""
+  date_start: ""
   description: "Attended second semester courses as part of my Tropimundo mobility"
   organization: Institute of Oceanography and Environment, University Malaysia Terengganu (UMT)
   organization_url: https://inos.umt.edu.my/
   title: 'Tropical Biodiversity Field School'
   url: https://tropimundo.eu/
 - certificate_url: 
-  date_end: "Oct 2020"
-  date_start: "Jan 2021"
+  date_end: ""
+  date_start: ""
   description: "Attended second semester courses as part of my Tropimundo mobility programme"
   organization: Univeristy of Florence, Italy
   organization_url: 
