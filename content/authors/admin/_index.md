@@ -7,7 +7,7 @@ education:
     institution: Université libre de Bruxelles & Vrije Universiteit Brussel
     year: 2021
   - course: BTech in Applied Ecology
-    institution: Massachusetts Institute of Technology
+    institution: Abubakar Tafawa Balewa University
     year: 2018
 email: "ridwanjafar2@gmail.com"
 highlight_name: false
@@ -48,7 +48,5 @@ Ridwan Jaafar is an ecologist with a strong academic background and deep passion
 Ridwan was trained by internationally reputable conservation institutions including the UK-based Tropical Biology Association in Botswana; A.P. Leventis Ornithological Research Institute and the Nigerian Montane Forest Project in Nigeria, where he was exposed to field research developing hands-on skillsets while working alongside expert scientists in broad areas of tropical ecology and conservation science. His experiences have led to a range of interests, centered around plant-animal interactions (especially fruvigory and seed dispersal), restoration ecology and ecological stoichiometry. 
 
 Over the years, Ridwan has proven a demonstrable commitment to this chosen career path evidenced by competencies he has sharpened in both volunteer and trainee roles within Africa and Malaysia. He has been part of various research projects on aspects of tropical ecology, and more recently, he is now working on an MSc project aimed at untangling processes and mechanisms that underpin dung stoichiometric patterns of mammalian herbivores across African savannas.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/my_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
