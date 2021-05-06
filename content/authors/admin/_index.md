@@ -29,7 +29,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/RidwanMJaafar
+  link: https://twitter.com/ridwanmjafar?lang=en
 - icon: graduation-cap
   icon_pack: fas
   link: https://www.researchgate.net/profile/Ridwan-Jaafar
