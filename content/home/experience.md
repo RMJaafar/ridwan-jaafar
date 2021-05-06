@@ -27,16 +27,16 @@ experience:
     company_url: 'https://rimba.ngo/'
     company_logo: 
     location: Malaysia
-    date_start: '2020-07-07'
-    date_end: '2020-09-06'
+    date_start: ''
+    date_end: ''
     description: Compiled bird checklist data for Kampung Basong; Synthesized State Park policy documents & Assistance in Project Pteropus field expedition
   - title: Student Intern
     company: Nigerian Montane Forest Project
     company_url: 'https://www.canterbury.ac.nz/afromontane/'
     company_logo: 
     location: Ngel Nyaki Forest Reserve
-    date_start: '2016-03-10'
-    date_end: '2017-03-30'
+    date_start: ''
+    date_end: ''
     description: |2-
         
         * Data collection and management
