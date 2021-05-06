@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Student Volunteer
+    company: Rimba
+    company_url: 'https://rimba.ngo/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+    location: Malaysia
+    date_start: 'Jul 2020'
+    date_end: 'Sept 2020'
+    description: Compiled bird checklist data for Kampung Basong; Synthesized State Park policy documents & Assistance in Project Pteropus field expedition
+  - title: Student Intern
+    company: Nigerian Montane Forest Project
+    company_url: 'https://www.canterbury.ac.nz/afromontane/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Ngel Nyaki Forest Reserve
+    date_start: 'Mar 2016'
+    date_end: 'Mar 2017'
+    description: |2-
+        
+        * Data collection and management
+        * Use of equipments/tools for ecology research 
+        * Managing social media operations including setting-up Twitter account (@Ngel_Nyaki)gaining over 700 followers
 
 design:
   columns: '2'

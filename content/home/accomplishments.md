@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: 
+  date_end: "Oct 2017"
+  date_start: ""
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: AuthorAid INASP
+  organization_url: https://www.authoraid.info/en/
+  title: Certificate of Achievement in Scientific Writing and Research Communication
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: 
+  date_end: "June 2020"
+  date_start: "Feb 2020"
+  description: "Attended second semester courses as part of my Tropimundo mobility"
+  organization: Institute of Oceanography and Environment, University Malaysia Terengganu (UMT)
+  organization_url: https://inos.umt.edu.my/
+  title: 'Tropical Biodiversity Field School'
+  url: https://tropimundo.eu/
+- certificate_url: 
+  date_end: "Oct 2020"
+  date_start: "Jan 2021"
+  description: "Attended second semester courses as part of my Tropimundo mobility programme"
+  organization: Univeristy of Florence, Italy
+  organization_url: 
+  title: 'Specialization semester'
   url: ""
 
 design:
